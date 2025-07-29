@@ -1,0 +1,12 @@
+# fichiers de build
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/*.o
+/*.obj
+# VSCode
+.vscode/
+
+# autres
+*.exe
+*.log
